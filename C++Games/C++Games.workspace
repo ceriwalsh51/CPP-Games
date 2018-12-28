@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="C++Games" Database="" Version="10.0.0">
-  <Project Name="Tetris" Path="Tetris/Tetris.project" Active="Yes"/>
+  <Project Name="Tetris" Path="Tetris/Tetris.project" Active="No"/>
+  <Project Name="DoodleJump" Path="DoodleJump/DoodleJump.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="Tetris" ConfigName="Debug"/>
+      <Project Name="DoodleJump" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="Tetris" ConfigName="Release"/>
+      <Project Name="DoodleJump" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
